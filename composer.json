@@ -3,7 +3,7 @@
     "description": "Element status events extension for Craft CMS.",
     "version": "2.1.0",
     "type": "yii2-extension",
-    "homepage": "https://github.com/putyourlightson/craft-element-status-events",
+    "homepage": "https://github.com/lsst-epo/craft-element-status-events",
     "license": "MIT",
     "keywords": [
         "craft",
@@ -30,13 +30,13 @@
     },
     "autoload": {
         "psr-4": {
-            "lsst-epo\\elementstatusevents\\": "src/"
+            "putyourlightson\\elementstatusevents\\": "src/"
         }
     },
     "support": {
-        "docs": "https://github.com/putyourlightson/craft-element-status-events",
-        "source": "https://github.com/putyourlightson/craft-element-status-events",
-        "issues": "https://github.com/putyourlightson/craft-element-status-events/issues"
+        "docs": "https://github.com/lsst-epo/craft-element-status-events",
+        "source": "https://github.com/lsst-epo/craft-element-status-events",
+        "issues": "https://github.com/lsst-epo/craft-element-status-events/issues"
     },
     "extra": {
         "bootstrap": "putyourlightson\\elementstatusevents\\ElementStatusEvents"
